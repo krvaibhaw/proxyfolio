@@ -1,1 +1,1 @@
-# Proxyfolio
+# Proxyfolio | Minimalist Template
