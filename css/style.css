@@ -19,3 +19,16 @@
   padding: 0;
   box-sizing: inherit;
 }
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  color: #444;
+  line-height: 1.9;
+  background-color: #f3f3f3;
+}
