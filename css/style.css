@@ -108,3 +108,18 @@ button:focus {
 img {
   transition: filter 0.5s;
 }
+
+.lazy-img {
+  filter: blur(20px);
+}
+
+/* NAVIGATION */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 9rem;
+  width: 100%;
+  padding: 0 6rem;
+  z-index: 100;
+}
