@@ -228,3 +228,43 @@ h4 {
   background-image: var(--gradient-primary);
 }
 
+/* FEATURES */
+.features {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  margin: 0 12rem;
+}
+
+.features__img {
+  width: 100%;
+}
+
+.features__feature {
+  align-self: center;
+  justify-self: center;
+  width: 70%;
+  font-size: 1.5rem;
+}
+
+.features__icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-primary-opacity);
+  height: 5.5rem;
+  width: 5.5rem;
+  border-radius: 50%;
+  margin-bottom: 2rem;
+}
+
+.features__icon svg {
+  height: 2.5rem;
+  width: 2.5rem;
+  fill: var(--color-primary);
+}
+
+.features__header {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
