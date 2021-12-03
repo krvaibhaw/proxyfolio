@@ -268,3 +268,28 @@ h4 {
   font-size: 2rem;
   margin-bottom: 1rem;
 }
+
+/* OPERATIONS */
+.operations {
+  max-width: 100rem;
+  margin: 12rem auto 0 auto;
+
+  background-color: #fff;
+}
+
+.operations__tab-container {
+  display: flex;
+  justify-content: center;
+}
+
+.operations__tab {
+  margin-right: 2.5rem;
+  transform: translateY(-50%);
+}
+
+.operations__tab span {
+  margin-right: 1rem;
+  font-weight: 600;
+  display: inline-block;
+}
+
