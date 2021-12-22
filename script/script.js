@@ -66,6 +66,3 @@ document.querySelector('.nav__links').addEventListener('click', function (e) {
   }
 });
 
-
-
-
