@@ -89,7 +89,7 @@ Go to `/index.html` and put your information, there are 5 sections:
     - On `<span>` tag under `class="operations"` mention your skills.
     - On `<h5 class="operations__header">` mention your skill title.
     - On `<p>` tag which is below ` <h5 class="operations__header">` tag, put a short description about your skill, I recommend to put 1 to 2 line of short and crisp details about your skills.
-    - Copy `class="operations__content operations__content--n` with n beight the `nth` skill to and more skills to your liking.
+    - Copy `class="operations__content operations__content--n` with n being the `nth` skill, you can also add more skills to your liking.
 
 
 ```html
